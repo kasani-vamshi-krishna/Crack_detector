@@ -1,4 +1,9 @@
 tyreenv\Script\activate-> cd web -> npm start
 activate tyreenv and execute-> pip freeze > requirements.txt  
-1.python -m venv tyreenv
-2.pip install requirements.txt
+
+git clone
+cd crackd... -> npm i -> python -m venv tyreenv ->pip install requirements.txt 
+tyreenv\Script\activate
+
+run- flask node ,server.js
+run-cd web -> npm start
