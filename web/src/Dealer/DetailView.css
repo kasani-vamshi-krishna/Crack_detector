@@ -1,0 +1,57 @@
+/* DetailView.css */
+
+/* Style for the main container */
+div.container {
+  padding: 20px;
+}
+
+/* Style for the user details section */
+div.user-details {
+  margin-bottom: 20px;
+}
+
+/* Style for the predictions table */
+table.predictions-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table.predictions-table th,
+table.predictions-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+table.predictions-table th {
+  background-color: #f2f2f2;
+}
+
+/* Style for the clickable image name */
+span.image-name {
+  cursor: pointer;
+  color: blue;
+}
+
+/* Style for the image preview container */
+div.image-preview-container {
+  display: flex;
+  align-items: center;
+}
+
+/* Style for the additional text */
+div.additional-text {
+  margin-left: 20px; /* Adjust the margin as needed */
+}
+
+/* Style for the image preview */
+.image-preview {
+  width: 50%;
+  max-width: 50%;
+  height: auto;
+  object-fit: contain;
+}
+
+
+

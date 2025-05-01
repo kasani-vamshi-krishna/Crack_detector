@@ -1,0 +1,91 @@
+/*/* CSS/home.css */*/
+
+/*.background-container {*/
+/*  height: 100vh;*/
+/*  position: relative;*/
+/*}*/
+
+/*.overlay {*/
+/*  background-color: rgba(0, 0, 0, 0.5); /* Adjust the overlay color and transparency */*/
+/*  position: absolute;*/
+/*  top: 0;*/
+/*  left: 0;*/
+/*  width: 100%;*/
+/*  height: 100%;*/
+/*}*/
+
+/*/* Add any additional styling as needed */*/
+/*.text-center {*/
+/*  position: absolute;*/
+/*  top: 50%;*/
+/*  left: 50%;*/
+/*  transform: translate(-50%, -50%);*/
+/*  text-align: center;*/
+/*}*/
+
+/*.text-white {*/
+/*  color: white;*/
+/*}*/
+
+
+/* CSS/home.css */
+
+.content {
+  text-align: center;
+  color: rgb(237, 228, 228);
+}
+
+.content h1 {
+  font-size: 6rem;
+  margin-bottom: 10px;
+  color: rgb(237, 221, 221);
+  text-align: center;
+}
+
+.button {
+  padding: 20px 60px;
+  font-size: 1.5rem;
+  background-color: #000000;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.25s ease;
+  margin-top: 900px;
+  margin-left: 150px;
+}
+
+.button:hover {
+  background-color: #D7D7D7;
+  color: black;
+}
+
+.content p {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.home-container {
+  background-image: url('https://ideogram.ai/assets/image/lossless/response/c5Qpun2QTpSATbtoRlLqDw');
+  background-size: cover;
+  background-position: center;
+  height: 150vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.additional-info {
+  padding: 50px 0;
+}
+
+.additional-info h3 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.additional-info p {
+  font-size: 1.5rem;
+}
+

@@ -1,0 +1,85 @@
+/* General styling */
+body {
+  font-family: sans-serif;
+  margin: 40px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Table styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+/* Modal styling */
+/* Modal styling */
+
+
+
+/* Modal styling */
+.modal-content {
+  background-color: #fff;
+  border: 1px solid #999;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.image-preview-container {
+  text-align: center;
+}
+
+.image-preview-container img {
+  width: auto;
+  max-height: 100vh; /* Adjust the maximum height for the image */
+  margin-bottom: 10px;
+  width: 400px;
+  height: 400px;
+}
+
+.empty-line {
+  height: 20px; /* Adjust the height as needed */
+  width: 100%; /* Set the width to 100% to span the entire container if necessary */
+  /* Add any other styling you want, such as background color or borders */
+}
+.empty-button {
+  height: 5px; /* Adjust the height as needed */
+  width: 50%; /* Set the width to 100% to span the entire container if necessary */
+  /* Add any other styling you want, such as background color or borders */
+}
+
+
+/* Add these styles to your CSS stylesheet */
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #000; /* Make the border color black */
+  text-align: left;
+  padding: 8px;
+}
+
+.status-container,
+.buttons-container {
+  border-bottom: 2px solid #000; /* Make the bottom border thicker */
+  padding-bottom: 12px; /* Adjust padding as needed */
+  margin-bottom: 5px; /* Add margin to create space between rows */
+}
+
+/* Add more styling as needed */
