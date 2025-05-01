@@ -6,4 +6,4 @@ cd crackd... -> npm i -> python -m venv tyreenv ->pip install requirements.txt
 tyreenv\Script\activate
 
 run- flask node ,server.js
-run-cd web -> npm start
+run-cd web -> npm i -> npm start
